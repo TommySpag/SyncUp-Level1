@@ -5,4 +5,4 @@ Dépot des prefabs et de la scène de notre niveau 1
 
 ## À importer pour recréer le niveau
 - POLYGON - Sampler Pack (Synty Studios)
-### Il est gratuit en ayant un compte Unity liée à l'école
+Il est gratuit en ayant un compte Unity liée à l'école
