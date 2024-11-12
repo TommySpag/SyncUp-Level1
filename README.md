@@ -3,9 +3,6 @@
 
 ![ExampleView](https://github.com/TommySpag/SyncUp-Level1/blob/main/POCLevel.png)
 
-### Vidéo de démonstration
-![Video](https://github.com/TommySpag/SyncUp-Level1/blob/main/level.webm)
-
 ## Réalisateurs :
 - Tommy Spagnuolo
 - Olivier Mansuy
