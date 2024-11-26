@@ -133,7 +133,7 @@ public class Patrol : State
         : base(_npc, _agent, _anim, _player)
     {
         name = STATE.PATROL;
-        agent.speed = 2.0f;
+        agent.speed = 1.0f;
         agent.isStopped = false;
     }
 
